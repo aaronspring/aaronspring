@@ -1,7 +1,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/aaronspring?style=social)](https://github.com/aaronspring?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/realaaronspring?style=social)](https://twitter.com/realaaronspring)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=tUuCui0AAAAJ&hl=en&oi=sra)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/aaronspring/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/springaaron)
 
 
 - 👋 Hi, I’m Aaron.
