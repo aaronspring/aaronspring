@@ -10,7 +10,7 @@
 - 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
 
 ## Portfolio
-- 🌱 free-lancing part-time for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
+- 🌱 free-lanced part-time for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
 - ⌨️ core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
