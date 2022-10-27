@@ -10,11 +10,11 @@
 - 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
 
 ## Portfolio
-- 🌱 free-lanced part-time for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
-- ⌨️ core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
+- 🌱 free-lanced part-time als Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
+- 📏 core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
+- 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
-- 💾 reduce storage of geospatial data by compression and bitrounding with [`xbitinfo`](https://github.com/observingClouds/xbitinfo)
 - 📋 reproducible science following [Irving, 2015 (BAMS)](http://journals.ametsoc.org/doi/full/10.1175/BAMS-D-15-00010.1):
   - [Spring and Ilyina, 2020, Geophys. Res. Lett.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL085311) [repo](https://github.com/aaronspring/Spring_and_Ilyina_2020_GRL)
   - [Spring et al., 2020, Env. Res. Lett.](https://doi.org/10.1088%2F1748-9326%2Fabc443) [repo](https://github.com/aaronspring/Spring_etal_2020_ERL)
