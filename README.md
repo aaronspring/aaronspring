@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/realaaronspring?style=social)](https://twitter.com/realaaronspring)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=tUuCui0AAAAJ&hl=en&oi=sra)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/springaaron)
-
+[![XING Badge](https://img.shields.io/badge/My-XING-green)](https://www.xing.com/profile/Aaron_Spring/cv)
 
 - 👋 Hi, I’m Aaron.
 - 👨‍💻 working on decadal carbon cycle predictions at [@mpi_meteo](https://twitter.com/MPI_Meteo/) funded by [@4c_h2020](https://twitter.com/4c_h2020)
@@ -23,6 +23,6 @@
 ## Contact
 - 📫 [email](mailto:aaron.spring@posteo.de)
 - 🕊️ [Twitter](https://twitter.com/realaaronspring/)
-- 📇 [LinkedIn](https://www.linkedin.com/in/springaaron/) & [XING](https://www.xing.com/profile/Aaron_Spring/cv)
+- 📇 [LinkedIn](https://www.linkedin.com/in/springaaron/) 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aaronspring&show_icons=true)
