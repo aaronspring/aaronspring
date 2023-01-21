@@ -5,9 +5,10 @@
 [![XING Badge](https://img.shields.io/badge/My-XING-green)](https://www.xing.com/profile/Aaron_Spring/cv)
 
 - 👋 Hi, I’m Aaron.
-- 👨‍💻 working on decadal carbon cycle predictions at [@mpi_meteo](https://twitter.com/MPI_Meteo/) funded by [@4c_h2020](https://twitter.com/4c_h2020)
+- 👨‍💻 used to work on decadal carbon cycle predictions at [@mpi_meteo](https://twitter.com/MPI_Meteo/) funded by [@4c_h2020](https://twitter.com/4c_h2020)
 - 📰 institutional website with [publication list](https://mpimet.mpg.de/en/staff/aaron-spring/publications)
 - 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
+- 👨‍💻 now Data scientist at New Work SE working on CTR prediction of native ads in XING
 
 ## Portfolio
 - 🌱 free-lanced part-time als Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
