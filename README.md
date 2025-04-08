@@ -7,7 +7,7 @@
 - 👋 Hi, I’m Aaron.
 - 👨‍💻 used to work on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
 - 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
-- 👨‍💻 now Data scientist at New Work SE working on CTR prediction of native ads in XING
+- 👨‍💻 now Data scientist at XING developing GenAI apps
 
 ## Portfolio
 - 🌱 free-lanced part-time als Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
