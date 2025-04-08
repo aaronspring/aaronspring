@@ -19,9 +19,4 @@
   - [Spring et al., 2020, Env. Res. Lett.](https://doi.org/10.1088%2F1748-9326%2Fabc443) [repo](https://github.com/aaronspring/Spring_etal_2020_ERL)
   - [Spring et al., 2021, Earth Sys. Dyn.](https://doi.org/10.5194/esd-12-1139-2021) [repo](https://github.com/aaronspring/Spring_etal_2021_ESD)
 
-## Contact
-- 📫 [email](mailto:aaron.spring@posteo.de)
-- 🕊️ [Twitter](https://twitter.com/realaaronspring/)
-- 📇 [LinkedIn](https://www.linkedin.com/in/springaaron/) 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=aaronspring&show_icons=true)
