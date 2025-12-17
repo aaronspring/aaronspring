@@ -4,7 +4,7 @@
 [![XING Badge](https://img.shields.io/badge/My-XING-green)](https://www.xing.com/profile/Aaron_Spring/cv)
 
 - 👋 Hi, I’m Aaron.
-- 👨‍💻 used to work on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
+- 👨‍💻 used to work in academia on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
 - 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
 - 👨‍💻 now Data scientist at XING developing XING RecruitingAgent
 
