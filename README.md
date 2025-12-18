@@ -5,7 +5,6 @@
 
 - 👋 Hi, I’m Aaron.
 - 👨‍💻 used to work in academia on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
-- 👀 interested in how Artificial Intelligence and Machine Learning improve (subseasonal) forecasts
 - 👨‍💻 now Data scientist at XING developing XING RecruitingAgent
 
 ## Portfolio
@@ -16,7 +15,6 @@
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
 - 🤖 [jimdo docs MCP](https://github.com/aaronspring/jimdo-docs-mcp)
 - 🤖 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
-
 
 ## Scientific papers
 - 📋 reproducible science following [Irving, 2015 (BAMS)](http://journals.ametsoc.org/doi/full/10.1175/BAMS-D-15-00010.1):
