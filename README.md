@@ -21,5 +21,8 @@
   - [Spring and Ilyina, 2020, Geophys. Res. Lett.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL085311) [repo](https://github.com/aaronspring/Spring_and_Ilyina_2020_GRL)
   - [Spring et al., 2020, Env. Res. Lett.](https://doi.org/10.1088%2F1748-9326%2Fabc443) [repo](https://github.com/aaronspring/Spring_etal_2020_ERL)
   - [Spring et al., 2021, Earth Sys. Dyn.](https://doi.org/10.5194/esd-12-1139-2021) [repo](https://github.com/aaronspring/Spring_etal_2021_ESD)
+ 
+## Talks
+- PyData Hamburg, 26.07.2020: Python for Big Data in Climate Science [recording](https://www.youtube.com/watch?v=7YORS4pf-8k)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aaronspring&show_icons=true)
