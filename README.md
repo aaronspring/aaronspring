@@ -23,6 +23,8 @@
   - [Spring et al., 2021, Earth Sys. Dyn.](https://doi.org/10.5194/esd-12-1139-2021) [repo](https://github.com/aaronspring/Spring_etal_2021_ESD)
  
 ## Talks
-- PyData Hamburg, 26.07.2020: Python for Big Data in Climate Science [recording](https://www.youtube.com/watch?v=7YORS4pf-8k)
+- PyData Hamburg, 26.07.2020: [Python for Big Data in Climate Science](https://www.youtube.com/watch?v=7YORS4pf-8k)
+- DKRZ Tech Talk, 01.09.2020: [Intake - Taking the pain out of climate data
+access](https://www.youtube.com/watch?v=urL17kRUinE&feature=youtu.be)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aaronspring&show_icons=true)
