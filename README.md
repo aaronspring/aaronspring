@@ -11,7 +11,7 @@
 ## Portfolio
 
 ### AI engineer 
-- 🤖 [`jimdo-docs-mcp`](https://github.com/aaronspring/jimdo-docs-mcp)
+- 🤖 [`jimdo-docs-mcp`](https://github.com/aaronspring/jimdo-docs-mcp) MCP server to chat with the docs of jimdo 
 - 🤖 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
 
 ### Geospatial
