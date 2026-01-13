@@ -11,7 +11,7 @@
 ## Portfolio
 
 ### AI engineer 
-- 🤖 [jimdo docs MCP](https://github.com/aaronspring/jimdo-docs-mcp)
+- 🤖 [ˋjimdo-docs-mcpˋ](https://github.com/aaronspring/jimdo-docs-mcp)
 - 🤖 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
 
 ### Geospatial
