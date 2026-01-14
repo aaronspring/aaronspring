@@ -10,9 +10,10 @@
 
 ## Portfolio
 
-### AI engineer 
-- 🤖 [`jimdo-docs-mcp`](https://github.com/aaronspring/jimdo-docs-mcp) MCP server to chat with the docs of jimdo 
-- 🤖 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
+### AI engineer
+- 🔍 [`doTERRA_essential_oils_recos`](https://github.com/aaronspring/doTERRA_essential_oils_recos) Search and discover dōTERRA essential oils based on user prompt and user oil feedback
+- 💬 [`jimdo-docs-mcp`](https://github.com/aaronspring/jimdo-docs-mcp) MCP server to chat with the docs of jimdo 
+- 💬 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
 
 ### Geospatial
 - 🌱 free-lanced part-time als Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
