@@ -11,6 +11,7 @@
 ## Portfolio
 
 ### AI engineer
+- 🤖 locally hosted whatsapp scripted conversation automation n8n workflow (incl. perplexity API call for truth-grounding) [stealth]
 - 🔍 [`doTERRA_essential_oils_recos`](https://github.com/aaronspring/doTERRA_essential_oils_recos) Search and discover dōTERRA essential oils based on user prompt and user oil feedback
 - 💬 [`jimdo-docs-mcp`](https://github.com/aaronspring/jimdo-docs-mcp) MCP server to chat with the docs of jimdo 
 - 💬 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
