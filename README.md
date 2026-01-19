@@ -21,6 +21,7 @@
 - 📏 core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
 - 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
+- 🦀 [`bit-round`] vibe-coded based on `bitinformation.jl` in `rust`
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
 
 
