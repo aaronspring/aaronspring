@@ -22,6 +22,7 @@
 - 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
 - 🦀 vibe-coded [`bit-round`](https://github.com/aaronspring/bit-round) based on [`bitinformation.jl`](https://github.com/milankl/BitInformation.jl) and [`numcodecs`](https://github.com/zarr-developers/numcodecs/blob/main/numcodecs/bitround.py) in `rust`
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
+- 🌎 daily updating ERA5 surface hourly with 27 variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
 
 
 ## Scientific papers
