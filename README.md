@@ -16,13 +16,13 @@
 - 💬 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
 
 ### Geospatial
-- 🌱 free-lanced part-time als Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
+- 🌱 part-time Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
 - 📏 core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
 - 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
-- 🦀 vibe-coded [`bit-round`](https://github.com/aaronspring/bit-round) based on [`bitinformation.jl`](https://github.com/milankl/BitInformation.jl) and [`numcodecs`](https://github.com/zarr-developers/numcodecs/blob/main/numcodecs/bitround.py) in `rust`
+- 🦀 vibe-coding [`bit-round`](https://github.com/aaronspring/bit-round) based on [`bitinformation.jl`](https://github.com/milankl/BitInformation.jl) and [`numcodecs`](https://github.com/zarr-developers/numcodecs/blob/main/numcodecs/bitround.py) in `rust` (learning)
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
-- 🌎 daily updating ERA5 surface hourly with 27 variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
+- 🌎 daily updating ERA5 MVP with 27 variables surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
 
 
 ## Scientific papers
