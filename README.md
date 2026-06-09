@@ -5,7 +5,8 @@
 
 - 👋 Hi, I’m Aaron.
 - 👨‍💻 used to work in academia on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
-- 👨‍💻 now Data scientist at XING developing XING RecruitingAgent
+- 🤖 moved into industry as Data scientist at XING developing deep learning CTR models and XING RecruitingAgent
+- 🚀 freelancing data scientist: ML engineer, AI engineer and geospatial cloud data engineer
 
 
 ## Portfolio
@@ -22,7 +23,7 @@
 - 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
 - 🦀 vibe-coding [`bit-round`](https://github.com/aaronspring/bit-round) based on [`bitinformation.jl`](https://github.com/milankl/BitInformation.jl) and [`numcodecs`](https://github.com/zarr-developers/numcodecs/blob/main/numcodecs/bitround.py) in `rust` (learning)
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
-- 🌎 daily updating ERA5 MVP with 2 surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
+- 🌎 daily updating icechunk-ERA5 MVP with 2 surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
 
 
 ## Scientific papers
