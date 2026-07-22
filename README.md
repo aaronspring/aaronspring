@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Aaron.
 - 👨‍💻 used to work in academia on decadal carbon cycle predictions at [@mpi_meteo](https://mpimet.mpg.de/startseite) funded by [@4c_h2020](https://twitter.com/4c_h2020)
 - 🤖 moved into industry as Data scientist at XING developing deep learning CTR models and XING RecruitingAgent
-- 🚀 freelancing data scientist: ML engineer, AI engineer and geospatial cloud data engineer
+- 🚀 [freelancing data scientist](https://aaronspring.github.io): ML engineer, AI engineer and geospatial cloud data engineer 
 
 
 ## Portfolio
@@ -25,6 +25,7 @@
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
 - 🏟️ [Fifa World Cup 2026 climate](https://github.com/aaronspring/world-cup-climate) heat during matches based on latest ECMWF forecasts
 - 🌎 daily updating icechunk-ERA5 MVP with 2 surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
+- 🌊 [Flood forecast for Overwerder](https://aaronspring.github.io/wasserstandvorhersage_overwerder/) merging pegelonline forecasts to specific location of flood-risk garden house plots near Hamburg [`wasserstandvorhersage_overwerder`](https://github.com/aaronspring/wasserstandvorhersage_overwerder)
 
 
 ## Scientific papers
