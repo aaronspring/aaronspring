@@ -26,6 +26,7 @@
 - 🏟️ [Fifa World Cup 2026 climate](https://github.com/aaronspring/world-cup-climate) heat during matches based on latest ECMWF forecasts
 - 🌎 daily updating icechunk-ERA5 MVP with 2 surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
 - 🌊 [Flood forecast for Overwerder](https://aaronspring.github.io/wasserstandvorhersage_overwerder/) merging pegelonline forecasts to specific location of flood-risk garden house plots near Hamburg [`wasserstandvorhersage_overwerder`](https://github.com/aaronspring/wasserstandvorhersage_overwerder)
+- ☁️ [AI Weather Models with Earthmover cloud data](https://huggingface.co/spaces/hugging-science/ai-weather-models-with-earthmover-data)
 
 
 ## Scientific papers
