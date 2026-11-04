@@ -21,12 +21,12 @@
 - 📏 core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
 - 💾 core contributor of [`xbitinfo`](https://github.com/observingClouds/xbitinfo) to reduce storage of geospatial data by compression after bitrounding
-- 🦀 vibe-coding [`bit-round`](https://github.com/aaronspring/bit-round) based on [`bitinformation.jl`](https://github.com/milankl/BitInformation.jl) and [`numcodecs`](https://github.com/zarr-developers/numcodecs/blob/main/numcodecs/bitround.py) in `rust` (learning)
 - ✨ passionate about [making climate data easily usable](https://github.com/aaronspring/remote_climate_data/) in python with [`xarray`](https://github.com/pydata/xarray/) and [`intake`](https://github.com/intake/intake) [plugins](https://intake.readthedocs.io/en/latest/plugin-directory.html)
 - 🏟️ [Fifa World Cup 2026 climate](https://github.com/aaronspring/world-cup-climate) heat during matches based on latest ECMWF forecasts
 - 🌎 daily updating icechunk-ERA5 MVP with 2 surface variables in spatial and temporal chunks since 2026-01-01 on [earthmover.io](https://app.earthmover.io/spring-data/era5-surface-aws-full)
 - 🌊 [Flood forecast for Overwerder](https://aaronspring.github.io/wasserstandvorhersage_overwerder/) merging pegelonline forecasts to specific location of flood-risk garden house plots near Hamburg [`wasserstandvorhersage_overwerder`](https://github.com/aaronspring/wasserstandvorhersage_overwerder)
 - ☁️ [AI Weather Models with Earthmover cloud data](https://huggingface.co/spaces/hugging-science/ai-weather-models-with-earthmover-data)
+- 🛰️ [AI Nowcasting at 10min 2km resolution](https://github.com/earthmover-support/nvidia-gtc-berlin-2026-stormscope_eu-booth)
 
 
 ## Scientific papers
