@@ -15,6 +15,7 @@
 - 🤖 nocode telegram scripted and AI conversation automation for non-tech users [stealth]
 - 🔍 [`doTERRA_essential_oils_recos`](https://github.com/aaronspring/doTERRA_essential_oils_recos) Search and discover dōTERRA essential oils based on user prompt and user oil feedback
 - 💬 Building internal RAG for a German political party to chat with their resolutions [code and access on request]
+- 💾 core contributor to the freelancer invoice and contract management [tuttle](https://github.com/tuttle-dev/tuttle) 
 
 ### Geospatial
 - 🌱 part-time Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io)
