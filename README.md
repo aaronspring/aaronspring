@@ -2,6 +2,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=tUuCui0AAAAJ&hl=en&oi=sra)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/springaaron)
 [![XING Badge](https://img.shields.io/badge/My-XING-green)](https://www.xing.com/profile/Aaron_Spring/cv)
+[![Website Badge](https://img.shields.io/badge/My-Website-black)](https://www.aaronspring.github.io)
 
 - 👋 Hi, I’m Aaron.
 - 🚀 [I help data teams ship low-latency geospatial data products](https://aaronspring.github.io): Freelancing geospatial cloud data engineer, side projects as ML/AI engineer 
