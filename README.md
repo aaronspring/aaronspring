@@ -13,8 +13,8 @@
 ## Portfolio
 
 ### Geospatial
-- 🛰️ [AI Nowcasting in 10min from EUMETSAT to users phones](https://github.com/earthmover-support/nvidia-gtc-berlin-2026-stormscope_eu-booth) and [in 90s from GOES to users phones](https://github.com/earthmover-support/sc26-chicago-stormscope_us-booth) in collaboration with [NVIDIA](https://www.earthmover.io/blog/building-a-low-latency-earth-2-nowcasting-pipeline-with-earthmover)
-- ☁️ [AI Weather Models with Earthmover cloud data](https://huggingface.co/spaces/hugging-science/ai-weather-models-with-earthmover-data) in collaboration with [Hugging Face](https://huggingface.co/blog/hugging-science/earthmover-hf)
+- 🛰️ [AI Nowcasting in 10min from EUMETSAT to users phones](https://github.com/earthmover-support/nvidia-gtc-berlin-2026-stormscope_eu-booth) and [in 90s from GOES to users phones](https://github.com/earthmover-support/sc26-chicago-stormscope_us-booth) in collaboration with [Earthmover and NVIDIA](https://www.earthmover.io/blog/building-a-low-latency-earth-2-nowcasting-pipeline-with-earthmover)
+- ☁️ [AI Weather Models with Earthmover cloud data](https://huggingface.co/spaces/hugging-science/ai-weather-models-with-earthmover-data) in collaboration with [Earthmover and Hugging Face](https://huggingface.co/blog/hugging-science/earthmover-hf)
 - 🌱 part-time Data Engineer for [WMO](https://public.wmo.int/en) hosting [`s2s-ai-competition`](https://s2s-ai-challenge.github.io) with [ECMWF](https://www.ecmwf.int)
 - ⌨️ maintainer of [`climpred`](https://github.com/pangeo-data/climpred), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based forecast verfication toolbox
 - 📏 core contributor to [`xskillscore`](https://github.com/xarray-contrib/xskillscore), multi-dimensional [`xarray`](https://github.com/pydata/xarray/)-based metrics for verifying forecasts 
